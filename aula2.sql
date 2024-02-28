@@ -122,4 +122,5 @@ postgres=# \dt
  public | tbl_emprestimo | table | postgres
 (4 rows)
 
+CREATE SCHEMA = PAULO;
 
